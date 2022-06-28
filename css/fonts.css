@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "iranYekan";
+    font-weight: 400;
+    font-style: normal;
+    src: url("/assets/fonts/Qs_Iranyekan.ttf")format("ttf");
+}
+
+@font-face {
+    font-family: "iranYekan";
+    font-weight: 700;
+    font-style: normal;
+    src: url("/assets/fonts/Qs_Iranyekan\ bold.ttf")format("ttf");
+}
+
+body,
+button {
+    font-family: "iranYekan";
+}
